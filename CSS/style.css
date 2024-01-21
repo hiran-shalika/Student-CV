@@ -1,0 +1,79 @@
+.page{
+    background-color: #000000;
+    border-radius: 5px;
+    margin: 10px 350px 20px 350px;
+    box-shadow: 5px 5px 5px rgb(106, 112, 114);
+}
+
+.text1{
+    text-align: justify;
+    color: white;
+    line-height: 30px;
+    font-size: large;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.topic{
+    color: white;   
+    padding: 10px;
+    margin-bottom: -20px;
+    margin-left: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.text{
+    color: white;   
+    padding: 50px;
+    margin-bottom: -40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.text2{
+    color: white;  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+.text3{
+    color: white;   
+    padding: 10px;
+    margin-bottom: -20px;
+    margin-left: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+.text4{
+    color: white;   
+    padding: 5px;
+    margin-bottom: -20px;
+    margin-left: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+.profileimg{
+    margin: 100px 20px 50px 20px;
+    float: left;
+    border-radius: 100px;
+}
+
+
+.page2{
+    margin-top: 30px;
+}
+
+hr{
+    margin: 30px 15px 10px 15px;
+}
+
+.list{
+    color: white;
+}
+
+.icet{
+    color: white;   
+    padding: 20px;
+    margin-bottom: -20px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    opacity: 0.5;
+}
